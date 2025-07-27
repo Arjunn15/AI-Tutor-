@@ -10,7 +10,7 @@ load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
-app.secret_key = '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'
+app.secret_key = ' '
 
 
 # ✅ Dummy users
